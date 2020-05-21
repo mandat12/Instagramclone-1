@@ -1,8 +1,8 @@
-# Project 3 - *Instagram Clone*
+ Project 3 - *Instagram*
 
-**Instagram CLone** is a photo sharing app similar to Instagram but using Parse as its backend.
+**instagram 1** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-Time spent: **9** hours spent in total
+Time spent: **40** hours spent in total
 
 ## User Stories
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walkthrough](walkthrough.gif)
+<img src='https://github.com/mandat12/Instagram1/blob/master/instagram-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -42,7 +42,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2020] [name of copyright Djken]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
