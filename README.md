@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/mandat12/Instagram1/blob/master/instagram-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mandat12/Instagramclone-1/blob/master/instagram-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
